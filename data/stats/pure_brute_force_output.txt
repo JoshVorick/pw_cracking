@@ -1,0 +1,10 @@
+3352478unique passwords to crack
+2661201 password with lowercase characters found (79.380118229%)
+399307 password with uppercase characters found (11.9108015026%)
+2142683 password with numerical characters found (63.9134097226%)
+Brute forcing all 6 character lowercase passwords
+237998 passwords were cracked (7.09916664628%)
+Brute forcing all 5 character lowercase/numerical passwords
+126829 passwords were cracked (3.7831419028%)
+Brute forcing all 5 character alphanumeric passwords
+144506 passwords were cracked (4.31042351359%)
